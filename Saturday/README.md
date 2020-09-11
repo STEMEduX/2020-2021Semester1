@@ -1,6 +1,6 @@
 ## Saturday Class 
 
-## Please introduce yourself: click [here] (https://flipgrid.com/85f3f2e7)
+## Please introduce yourself: click [here](https://flipgrid.com/85f3f2e7)
 
 ## On Saturday, please join class using following link
 
