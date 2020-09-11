@@ -1,1 +1,3 @@
-"# 2020-2021Semester1" 
+## AI class present by STEMEduX and Minnesota Chinese International School
+
+
