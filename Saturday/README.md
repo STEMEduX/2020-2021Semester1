@@ -22,6 +22,7 @@ Passcode: 2ycEwZ
 * Google Assistance hands on (https://cloud.google.com/dialogflow/es/docs/tutorials/build-an-agent)
 * Class plan
 
+Recommend to watch
 * [How language shapes the way we think | Lera Boroditsky](https://youtu.be/RKK7wGAYP6k)
 ---
 
