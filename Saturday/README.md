@@ -24,6 +24,8 @@ Passcode: 2ycEwZ
 
 Recommend to watch
 * [How language shapes the way we think | Lera Boroditsky](https://youtu.be/RKK7wGAYP6k)
+
+https://dialogflow.cloud.google.com/#/getStarted
 ---
 
 ## 9/19/2020 9:15 Class 2
