@@ -15,7 +15,7 @@ Passcode: 2ycEwZ
 * Self Instroduction 
 * Instroduction to NLP
 * Tools we use
-* Google Assistance hands on
+* Google Assistance hands on (https://us02web.zoom.us/j/6123089856)
 * Class plan
 
 ## 9/19/2020 9:15 Class 2
