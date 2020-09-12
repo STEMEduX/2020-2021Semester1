@@ -24,6 +24,11 @@ Passcode: 2ycEwZ
 
 Recommend to watch
 * [How language shapes the way we think | Lera Boroditsky](https://youtu.be/RKK7wGAYP6k)
+* Google I/O 2019 http://www.youtube.com/watch?v=lyRPyRKHO8M&t=22m40s
+
+###Homework: 
+* Finish your first agent with at least one Intent
+* Try to figure out how to allow agent to answer multiple questions leveraging "Knowlege". 
 
 https://dialogflow.cloud.google.com/#/getStarted
 ---
