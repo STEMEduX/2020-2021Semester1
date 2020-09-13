@@ -15,3 +15,7 @@ Passcode: 2ycEwZ
 How Tesla works - https://www.youtube.com/watch?v=Kt-rhVU8evI
 
 AI to help build Mars - https://www.youtube.com/watch?v=MlbiOL9Rh1M
+
+Assignment:
+
+** Identify 3 cases where AI is being used in today's world or in the future. Come up with 3-5 slides to tell the class about these cases.
