@@ -34,6 +34,7 @@ https://dialogflow.cloud.google.com/#/getStarted
 ---
 
 ## 9/19/2020 9:15 Class 2
+Q&A: https://app.sli.do/event/vec78n8w
 ---
 ## 9/26/2020 9:15 Class 3
 ---
