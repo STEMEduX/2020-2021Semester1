@@ -34,7 +34,13 @@ https://dialogflow.cloud.google.com/#/getStarted
 ---
 
 ## 9/19/2020 9:15 Class 2
-Q&A: https://app.sli.do/event/vec78n8w
+* Q&A: https://app.sli.do/event/vec78n8w
+* Communication survey
+* Discord: https://discord.gg/ZXWExtN
+
+
+
+Homework: 
 Finish this lab https://google-run.qwiklabs.com/focuses/2196?parent=catalog
 ---
 ## 9/26/2020 9:15 Class 3
