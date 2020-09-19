@@ -13,7 +13,7 @@ Passcode: 2ycEwZ
 
 ---
 ## Join Wechat group
-![image](https://user-images.githubusercontent.com/24532787/92997150-b8461200-f4d6-11ea-84cf-ab2c029c06cf.png)
+<!--![image](https://user-images.githubusercontent.com/24532787/92997150-b8461200-f4d6-11ea-84cf-ab2c029c06cf.png)-->
 --
 ## 9/12/2020 9:15 Class 1
 * Self Instroduction 
