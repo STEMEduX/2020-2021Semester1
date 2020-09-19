@@ -36,7 +36,9 @@ https://dialogflow.cloud.google.com/#/getStarted
 ## 9/19/2020 9:15 Class 2
 * Q&A: https://app.sli.do/event/vec78n8w
 * Communication survey
-* Discord: https://discord.gg/T2vSXGc
+* Discord: https://discord.gg/T2vSXGc  
+![image](https://user-images.githubusercontent.com/24532787/93668707-ec2fb300-fa53-11ea-8729-25d4a0784358.png)
+
 
 
 
