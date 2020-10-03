@@ -19,3 +19,24 @@ AI to help build Mars - https://www.youtube.com/watch?v=MlbiOL9Rh1M
 Assignment:
 
 ** Identify 3 cases where AI is being used in today's world or in the future. Come up with 3-5 slides to tell the class about these cases.
+
+## 9/27/2020
+Product ideas
+Kevin
+** A drone to drive birds away
+
+Ben 
+** Noise cancellation 
+** Computer building based on a price
+
+Edwards
+** Calculator that can recognize word problems and geometry problem
+
+Gavin Sun
+** Depression detector
+
+James
+** Food growth with machinery
+
+Victor
+** AI Drone Delivery from Amazon
