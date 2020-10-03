@@ -51,6 +51,7 @@ Finish this lab https://google-run.qwiklabs.com/focuses/2196?parent=catalog
 [Javascript #3](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/03.md)  
 --- 
 ## 9/12/2020 9:15 Class 4
+Continue Javascript 
 ---
 ## 10/3/2020 9:15 Class 5
 ---
