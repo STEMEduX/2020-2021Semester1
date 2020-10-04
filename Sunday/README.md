@@ -10,6 +10,9 @@ https://zoom.us/j/95132915608?pwd=Y1kyOFRBU2JLTFJBS0M0aWxTWXVjUT09
 Meeting ID: 951 3291 5608
 Passcode: 2ycEwZ
 
+## 10/3/20
+Machine learning road map video: (23’30” on different learning problems) https://www.youtube.com/watch?v=pHiMN_gy9mk&t=1357s
+
 ## 9/13/2020
 
 How Tesla works - https://www.youtube.com/watch?v=Kt-rhVU8evI
