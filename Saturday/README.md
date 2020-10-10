@@ -60,6 +60,9 @@ Continue Javascript
 [Javascript #4](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/04-string-template.js)    
 javascript/
 [Javascript #5](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/05-arrow-function.js)  
+
+[Javascript #6](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/06-filter.js)
+[Javascript #6](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/07-map.js)
 ---
 ## 10/17/2020 9:15 Class 7
 ---
