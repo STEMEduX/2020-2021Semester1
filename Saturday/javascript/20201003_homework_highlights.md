@@ -32,8 +32,8 @@ for (var h = 0; h<24; h++ ) {
 console.log("final", h) //24, h in global scope
 ```
 ## Variable Scope
-see 
+see https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/20201010.md#variable-scope
 ## Difference  `var`, `let` and `const`
-see
+see https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/20201010.md#difference-var-let-vs-const
 
 
