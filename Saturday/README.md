@@ -57,6 +57,9 @@ Continue Javascript
 [Home Work](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/homework_20201003.md)
 ---
 ## 10/10/2020 9:15 Class 6
+[Javascript #4](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/04-string-template.js)    
+javascript/
+[Javascript #5](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/05-arrow-function.js)  
 ---
 ## 10/17/2020 9:15 Class 7
 ---
