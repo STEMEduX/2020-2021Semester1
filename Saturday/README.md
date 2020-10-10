@@ -46,27 +46,22 @@ Homework:
 Finish this lab https://google-run.qwiklabs.com/focuses/2196?parent=catalog
 ---
 ## 9/26/2020 9:15 Class 3
-[Javascript #1](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/01.md)    
-[Javascript #2](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/02.md)  
-[Javascript #3](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/03.md)  
+### [Javascript #1](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/01.md)    
+### [Javascript #2](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/02.md)  
+### [Javascript #3](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/03.md)  
 --- 
 ## 9/12/2020 9:15 Class 4
-Continue Javascript 
+### Continue Javascript 
 ---
 ## 10/3/2020 9:15 Class 5
-[Home Work](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/homework_20201003.md)
+### [Home Work](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/homework_20201003.md)
 ---
 ## 10/10/2020 9:15 Class 6
-## [Home Work Highlights](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/20201003_homework_highlights.md)
-## [20201010 Lecture](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/20201010.md)
-## [Home Work](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/20201010_homework.md)
+### [Home Work Highlights](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/20201003_homework_highlights.md)
+### [20201010 Lecture](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/20201010.md)
+### [Home Work](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/20201010_homework.md)
 ---
 ## 10/17/2020 9:15 Class 7
-## [Javascript #4](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/04-string-template.js)    
-## [Javascript #5](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/05-arrow-function.js)  
-## [Javascript #6](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/06-filter.js)
-## [Javascript #7](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/07-map.js)
-
 ---
 ## 10/24/2020 9:15 Class 8
 ---
