@@ -67,6 +67,13 @@ Finish this lab https://google-run.qwiklabs.com/focuses/2196?parent=catalog
 * [fibo2](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/fibo2.js)
 * [fibo3](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/fibo3.js)
 * [fibo4](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/fibo4.js)
+
+### Topics
+* [string template/interpolation](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/04-string-template.js)
+* [arrow function](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/05-arrow-function.js)
+* [filter](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/06-filter.js)
+* [map](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/04-string-template.js)
+### [Home Work](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/07-map.js) 
 ---
 ## 10/24/2020 9:15 Class 8
 ---
