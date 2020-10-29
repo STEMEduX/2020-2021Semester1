@@ -9,7 +9,18 @@ https://zoom.us/j/95132915608?pwd=Y1kyOFRBU2JLTFJBS0M0aWxTWXVjUT09
 
 Meeting ID: 951 3291 5608
 Passcode: 2ycEwZ
-## 10/24/20
+
+
+## 11/8/20
+Assignment: Create a [Glitch](https://glitch.com) account so you can start coding, modify the hello-express app to be your own. We covered img tags, links and how javascript works in tandem with HTML and CSS in our lass week's class. After you had fun customizing the code. We want you to setup some functional areas for the Presentation Enhancer app we wanted you to create in the weeks prior. To recap, here are the three main areas: 
+1. An area to display the transcripted speech
+1. An area to display the keywords extracted from the speech transcripts
+1. And an area to display image search results using these keywords.
+
+For now, these areas can just be populated with mock text or images that you've choose, in our coming classes, we will make them actually functional.
+
+A few good resources: https://www.w3schools.com/html/html_intro.asp
+Youtube and Google resources on html and css.
 
 
 ## 10/11/20
