@@ -82,6 +82,8 @@ No Class
 No Class
 ---
 ## 11/07/2020 9:15 Class 8
+* check home work on Javascript
+* continue DialogFlow discussion, https://codelabs.developers.google.com/codelabs/actions-1/#0
 ---
 
 
