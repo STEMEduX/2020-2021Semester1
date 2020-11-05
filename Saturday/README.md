@@ -61,7 +61,10 @@ Finish this lab https://google-run.qwiklabs.com/focuses/2196?parent=catalog
 ### [20201010 Lecture](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/20201010.md)
 ### [Home Work](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/20201010_homework.md)
 ---
-## 10/17/2020 9:15 Class 7
+## 10/17/2020 9:15 
+No Class
+---
+## 10/24/2020 9:15 Class 7
 ### Home Work Highlights
 * [fibo1](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/fibo1.js)
 * [fibo2](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/fibo2.js)
@@ -75,12 +78,10 @@ Finish this lab https://google-run.qwiklabs.com/focuses/2196?parent=catalog
 * [map](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/04-string-template.js)
 ### [Home Work](https://github.com/STEMEduX/2020-2021Semester1/blob/master/Saturday/javascript/07-map.js) 
 ---
-## 10/24/2020 9:15 Class 8
----
 ## 10/31/2020 9:15 
 No Class
 ---
-## 11/07/2020 9:15 Class 9
+## 11/07/2020 9:15 Class 8
 ---
 
 
