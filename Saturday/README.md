@@ -77,9 +77,10 @@ Finish this lab https://google-run.qwiklabs.com/focuses/2196?parent=catalog
 ---
 ## 10/24/2020 9:15 Class 8
 ---
-## 10/31/2020 9:15 Class 9
+## 10/31/2020 9:15 
+No Class
 ---
-## 11/07/2020 9:15 Class 10
+## 11/07/2020 9:15 Class 9
 ---
 
 
