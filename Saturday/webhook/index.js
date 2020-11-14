@@ -27,7 +27,8 @@ restService.post("/color", function (req, res) {
         items: [
           {
             simpleResponse: {
-              textToSpeech: "Your lucky number is " + speech.length
+              textToSpeech: "Your lucky number is " + (Math.floor(Math.random() * 11 + 100))
+              //Math.floor(Math.random() * 11); 
             }
           }
         ]
