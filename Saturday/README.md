@@ -17,6 +17,13 @@ Passcode: 2ycEwZ
 -->
 
 ---
+## 11/07/2020 9:15 Class 9
+* continue DialogFlow discussion, https://codelabs.developers.google.com/codelabs/actions-1/#0
+* https://github.com/STEMEduX/2020-2021Semester1/tree/master/Saturday/webhook
+* finish lab from last week.
+---
+
+---
 ## 11/07/2020 9:15 Class 8
 * check home work on Javascript
 * continue DialogFlow discussion, https://codelabs.developers.google.com/codelabs/actions-1/#0
