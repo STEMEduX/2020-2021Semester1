@@ -21,6 +21,9 @@ Passcode: 2ycEwZ
 * continue DialogFlow discussion, https://codelabs.developers.google.com/codelabs/actions-1/#0
 * https://github.com/STEMEduX/2020-2021Semester1/tree/master/Saturday/webhook
 * finish lab from last week.
+### outstanding issue: 
+ - Install Postman on MacOS doesn't work
+ - Visual Studio Code built-in termial doesn't have node path to run npm install
 ---
 
 ---
