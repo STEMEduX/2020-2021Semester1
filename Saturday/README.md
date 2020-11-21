@@ -30,7 +30,31 @@ Passcode: 2ycEwZ
  ```
  - Test local host web API using postman, URL is http://localhost:8000/color, request in raw format, and using json, copy following into your request section: 
  ```
- 
+ {
+  "responseId": "c798c0de-3565-4aa0-86f0-9c25387e7293-ee7586fb",
+  "queryResult": {
+    "queryText": "green",
+    "parameters": {
+      "color": "green"
+    },
+    "allRequiredParamsPresent": true,
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            ""
+          ]
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/lab-epsg/agent/intents/49ef81a7-d315-4deb-aebd-34638c048aea",
+      "displayName": "favorite color"
+    },
+    "intentDetectionConfidence": 1,
+    "languageCode": "en"
+  }
+}
  ```
  - Launch ngrox using follwong command: 
  ```
