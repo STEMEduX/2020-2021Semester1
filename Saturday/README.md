@@ -22,9 +22,24 @@ Passcode: 2ycEwZ
 * continue DialogFlow discussion, https://codelabs.developers.google.com/codelabs/actions-1/#0
 * https://github.com/STEMEduX/2020-2021Semester1/tree/master/Saturday/webhook
 * finish lab from last week.
-### outstanding issue: 
- - Install Postman on MacOS doesn't work
- - Visual Studio Code built-in termial doesn't have node path to run npm install
+### Homework: 
+ - Lanuch Visual Studio Code, add code include index.js and package.json, start web api locally using following two commands:
+ ```
+ npm install 
+ npm start
+ ```
+ - Test local host web API using postman, URL is http://localhost:8000/color, request in raw format, and using json, copy following into your request section: 
+ ```
+ 
+ ```
+ - Launch ngrox using follwong command: 
+ ```
+ ngrok http 8000
+ ```
+ - Test Ngrok URL using postman
+ - Go to Dialogflow console, setup default welcome intent and favorite color intent
+ - Go to fulfilment and paste Ngrok URL
+ - Test your action!
 ---
 
 
