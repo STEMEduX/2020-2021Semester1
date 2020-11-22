@@ -13,6 +13,7 @@ Passcode: 2ycEwZ
 ## 11/22/20
 1. https://www.youtube.com/watch?v=tWu0AWdaTTs, how to solve puzzles with Machine learning
 1. https://www.youtube.com/watch?v=qjO7MdI8x-8, Facebook AI - how to detect hate speech with machine learning
+1. https://www.youtube.com/watch?v=rfscVS0vtbw, Python tutorials in 4 hours
 
 
 ## 11/8/20
