@@ -10,6 +10,10 @@ https://zoom.us/j/95132915608?pwd=Y1kyOFRBU2JLTFJBS0M0aWxTWXVjUT09
 Meeting ID: 951 3291 5608
 Passcode: 2ycEwZ
 
+## 11/22/20
+1. https://www.youtube.com/watch?v=tWu0AWdaTTs, how to solve puzzles with Machine learning
+1. https://www.youtube.com/watch?v=qjO7MdI8x-8, Facebook AI - how to detect hate speech with machine learning
+
 
 ## 11/8/20
 Assignment: Create a [Glitch](https://glitch.com) account so you can start coding, modify the hello-express app to be your own. We covered img tags, links and how javascript works in tandem with HTML and CSS in our lass week's class. After you had fun customizing the code. We want you to setup some functional areas for the Presentation Enhancer app we wanted you to create in the weeks prior. To recap, here are the three main areas: 
