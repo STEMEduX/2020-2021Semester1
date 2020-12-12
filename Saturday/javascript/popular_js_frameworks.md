@@ -6,9 +6,11 @@
     * Eithernet
         * Eithernet Card
         * Cable
+    
     * Wifi
         * Wifi Card
         * Wifi Router
+
 
 ## Network : TCP/IP (Transmission Protocol)
 
@@ -48,20 +50,6 @@
 This is the common reason why your server or debug does not start.    
 
 
-# Backend/Frontend
-    * Server/Client
-    * Server/Browser
-
-## Application may have multiple roles, depends on functionality/business
-* Life
-    * farm  -> restaurant -> customer
-    * farm is Server, <ins>restaurant</ins> is Client
-    * <ins>restaurant</ins> is Server, customer is Client
-
-* Internet
-    * Amazon -> Citi Bank -> User
-    * <ins>Amazon</ins> is Server, User is Client, place order
-    * Citi is Server, <ins>Amazon</ins> is Client, verify Payment
 
 # NodeJs and npm
 ## NodeJs
@@ -75,10 +63,165 @@ This is the common reason why your server or debug does not start.
 
 * Package: pack code and share it
 
-# Angular
+## Create a nodeJs project
+```
+mkdir demo
+cd demo
+npm init
+```
+* it create a package.json for you.
+    * windows
+    ```
+    dir
+    ```
+    * mac/linux
+    ```
+    ls
+    ```
+### **About package.json**
+```javascript
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "My first nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+```
+### **index.js**
+```javascript
+const http = require('http');
+
+const hostname = '127.0.0.1';
+const port = 3000;
+
+const server = http.createServer((req, res) => {
+  res.statusCode = 200;
+  res.setHeader('Content-Type', 'text/plain');
+  res.end('Hello World');
+});
+
+server.listen(port, hostname, () => {
+  console.log(`Server running at http://${hostname}:${port}/`);
+});
+```
+### **run your application**
+```
+node indexjs
+```
+
+### **use npm to run your application**
+Edit `package.json`, add the following under `scripts`
+```javascript
+...
+"scripts": {
+    ...
+    "start": "node index.js" //add this line
+    ...
+}
+...
+```
+
+### **debug demo** 
+* set break point
+* use tool buttons
+* variables/watch
+
+### **add packages/dependencies to your project**
+* reuse other people's code
+* where to find package? https://www.npmjs.com/, search there
+* https://www.npmjs.com/package/shortid
+* edit package.json
+```javascript
+"dependencies": {
+    "shortid": "2.2.16"
+  },
+```
+* run the following command under your project folder:
+```
+npm install
+```
+* where does the dependencies installed? `node_modules`
+
+* use `shortid` on your `index.js`
+```
+const shortid = require('shortid');
+...
+...
+res.end(`Hello World: ${shortid.generate()}`);
+```
+
 
 # React
+![](res/2020-12-11-19-39-02.png)
 
-# VUE
+## React https://reactjs.org/
+* Web development
+### **Install create-react-app**
+```
+npm install -g create-react-app
+```
 
-# React Native
+### **Create the react project**
+* the command will create the project folder for you. 
+```
+npx create-react-app react-hello-world
+```
+* this will take some time
+
+![](res/2020-12-11-19-54-13.png)
+
+* run it
+```
+cd react-hello-world
+npm start
+```
+
+### **the package.json**
+* depnedencies
+* scripts
+
+### **Project structure**
+![](res/2020-12-11-19-58-33.png)
+* node_modules: nodeJs dependency packages
+* public: non source code resources, pictures icons, static pages...
+* src: source code folder
+
+### **Add your code**
+...
+
+# Angular
+![](res/2020-12-11-20-19-54.png)
+
+## Angular https://angular.io/
+
+### **Install the Angular CLI**
+```
+npm install -g @angular/cli
+```
+
+### **Create project**
+```
+ng new angular-hello-world
+```
+
+* run it
+```
+cd angular-hello-world
+npm start
+```
+
+### **the package.json**
+* depnedencies
+* scripts
+
+### **Project structure**
+![](res/2020-12-11-20-29-37.png)
+
+### **Add your code**
+...
+
