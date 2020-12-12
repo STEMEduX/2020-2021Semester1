@@ -21,7 +21,7 @@ Passcode: 2ycEwZ
 * Update on some issues in project demo
 * https://github.com/STEMEduX/2020-2021Semester1/tree/master/Saturday/webhook
 * Introduction on modern Javascript framework. 
-
+* Lab resource https://codelabs.developers.google.com/
 
 
 ---
