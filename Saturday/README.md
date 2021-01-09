@@ -23,6 +23,37 @@ Passcode: 2ycEwZ
 * Test webhook connect to Glitch
 * Next semester's ideas
 
+```
+Copy this to package.json in Glitch
+{
+  "name": "webhook-color-sample",
+  "version": "1.0.0",
+  "description": "Webhook echo sample",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "author": "Jun Wang",
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
+
+```
+
 
 ---
 ## 12/12/2020 9:15 Class 12
